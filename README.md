@@ -10,7 +10,7 @@ Below are some of the images I'm creating in this repo.
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Time_Line_Pod%20Save%20America.png)
 
 # Grouped podcast audience reach analysis
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Audience_Reach_Scatter.png)
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Audience_Reach_Scatter.png,https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Content_Released_Scatter.png)
 
 # Grouped content release analysis
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Content_Released_Scatter.png)
