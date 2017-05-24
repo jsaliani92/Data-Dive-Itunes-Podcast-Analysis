@@ -11,3 +11,9 @@ Below are some of the images I'm creating in this repo.
 
 # Scatterplots to analyze reach across Twitter and Itunes
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Audience_Reach_Scatter.png)
+
+# Scatterplots to analyze content released during 2017
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Content_Released_Scatter.png)
+
+# Tables to analyze the time spent in Top 100 rankings per podcast
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Tables/Percent_Data_Table.png)
