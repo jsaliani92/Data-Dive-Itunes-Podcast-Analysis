@@ -1,13 +1,15 @@
-# Crooked Media Report
+# Crooked Media 2017 Podcast Report (In-progress)
 
 This report summarized my dive into the data around the podcasts from Crooked Media.  I look into how often they release content, what kind of audiences they've reached, how well they've faired on the iTunes rankings chart, and what Crooked Media can take away from this analysis.  I had two main goals with this analysis.  One: to see what this data is capable of telling us at this time about these podcasts and the company.  And two: to see if I can provide any significant insights to Crooked Media about their podcasts and how they've been received.  
 
-Here are the sections of the report: (and just an FYI, if you're just interested in the analysis section, I suggest skipping section one.  But I highly recommend reading regardles!)
+Here are the sections of the report: 
 
 ### What is Crooked Meida? (Non-Data)
-### What audiences have they reached?
+### What audiences have their podcasts reached?
 ### How have they done in the iTunes rankings?
 ### What are the key take aways we can see?
+
+(and an FYI, if you're just interested in the analysis section, you can skip the first section.  But I highly recommend reading, it's an awesome section!!)
 
 Together this gives a great overview on what Crooked Media has done this year and some insights they could use in future content creation.  Hope you enjoy!
 
@@ -33,7 +35,10 @@ Jon Favereau (@), Jon Lovett (@), Tommy Veitor (@) and Dan Phieffer (@)
 Mondays and Thursdays each week
 
 ### Description
-Twice a week, the founders of Crooked Media get together to have a "No Bullshit" conversation, exploring what the hell has been going on in politics over the past week, and featuring conversations with politicians, journalists and activists in hopes of inspiring others to act.  I love this show; it's probably my favorite political news show right now.  Favs, the only member on both the Monday and Thursday shows, creates both a serious and light-hearted conversation where I'm both engaged on in the conversation, but I also learn pretty indepth coverage of topics I wouldn't normally explore.  This especially comes into play during the guest interviews, whether it be the Mayor of LA (Eric Garcetti) or founders of the Indivisible movement (). 
+Twice a week, the founders of Crooked Media get together to have a "No Bullshit" conversation, exploring what the hell has been going on in politics over the past week, and featuring conversations with politicians, journalists and activists in hopes of inspiring others to act.  
+
+### Julian's Review
+I love this show; it's probably my favorite political news show right now.  Favs, the only member on both the Monday and Thursday shows, creates both a serious and light-hearted conversation where I'm both engaged on in the conversation, but I also learn pretty indepth coverage of topics I wouldn't normally explore.  This especially comes into play during the guest interviews, whether it be the Mayor of LA (Eric Garcetti) or founders of the Indivisible movement (). 
 
 
 ## Pod Save the World 
@@ -101,10 +106,21 @@ Pod Save the People dives into the world of local activism and social issue driv
 ### Julian's Review
 My favorite thing about this podcast is the advice Mckesson's gives to the listener.  The rules are simple but powerful, and it gives me constant perspective on how to deal with the issue's I'm passionate about and stay active.  While this is the youngest of the Crooked Media shows, I'm excited to see what this one grows into over time!
 
+Overall, I'm a huge fan of these podcasts and what Crooked Media has done this year.  It's impressive and I can't wait to see their new shows, but also how each of these shows grow over the coming years.  But now, let's dive into the fun stuff: what does the data say about Crooked Media?
 
+## What audiences have their podcasts reached?
 
+There are a couple ways to go about this question, but I chose to compared two metrics; the total number of iTunes rankings for each podcast, and the twitter reach of each of the podcast hosts.  I chose these two metrics because they give two indications on what audience the potential podcasts could reach.
 
+### iTunes Review Totals
+iTunes reviews are probably the best way a podcast supporter can voice thier support for their show.  After the end of any podcast one listens to, the host will recommend their listeners to make the effort, go into the iTunes app store and write a review for their show.  This is apparently a significant help in boosting the shows up in the iTunes ranking charts, which we will explore later.  This leads to futher exposure through the main iTunes podcast pages promoting the popular podcast for new users.  It gives a great idea of how passionate a podcast's audience can be.
 
+### Twitter Host Followings
+Knowing the host's social media following is key as it's one of, if not the most, primary way to advertise their show.  If host's with large audiences can bring in their Twitter followings to the podcast world, that is an easy and potentially quick way to grow an audience listenership right at the onset of the show.
+
+Having defined what each variable is meant to show, let's look at the results of plotting them against one another:
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Audience_Reach_Scatter.png)
 
 
 
