@@ -11,7 +11,11 @@ huge plan of all the podcasts they've released so far and am extremely excited f
 
 The five podcasts Crooked Media has released are:
 
-Pod Save America - The main show behind Crooked Media, twice a week PSA tries to create a "No Bullshit" conversation, exploring what the 
+## Pod Save America - 
+
+![alt text]((https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Pod_Save_America.png)
+
+The main show behind Crooked Media, twice a week PSA tries to create a "No Bullshit" conversation, exploring what the 
 hell has been going on in politics over the past week, and featuring conversations with politicians, journalists and activists in hopes of 
 inspiring others to act.
 
@@ -24,6 +28,7 @@ with taboo subjects like disabilities to blackness/white privalege, these conver
 ## Lovett Or Leave It - 
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Lovett_Or_Leave_It.png)
+
 A gameshow podcast hosted by Jon Levett, the host and three guests play games and rant about the absurd week in 
 poltiical news.  It's a fun time.
 
