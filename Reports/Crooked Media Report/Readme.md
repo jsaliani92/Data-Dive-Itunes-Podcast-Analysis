@@ -4,10 +4,10 @@ This report summarized my dive into the data around the podcasts from Crooked Me
 
 Here are the sections of the report: (and just an FYI, if you're just interested in the analysis section, I suggest skipping section one.  But I highly recommend reading regardles!)
 
-## What is Crooked Meida? (Non-Data)
-## What audiences have they reached?
-## How have they done in the iTunes rankings?
-## What are the key take aways we can see?
+### What is Crooked Meida? (Non-Data)
+### What audiences have they reached?
+### How have they done in the iTunes rankings?
+### What are the key take aways we can see?
 
 Together this gives a great overview on what Crooked Media has done this year and some insights they could use in future content creation.  Hope you enjoy!
 
