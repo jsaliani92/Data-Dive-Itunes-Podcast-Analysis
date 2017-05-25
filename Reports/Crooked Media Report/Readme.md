@@ -1,6 +1,15 @@
 # Crooked Media Report
 
-This report summarized my dive into the data around the podcasts from Crooked Media.  I look into how often they release content, what kind of audiences they've reached, how well they've faired on the iTunes rankings chart, and what Crooked Media can take away from this analysis.  I had two main goals with this analysis.  One: to see what this data is capable of telling us at this time about these podcasts and the company.  And two: to see if I can provide any significant insights to Crooked Media about their podcasts and how they've been received.  Lets dive into it!
+This report summarized my dive into the data around the podcasts from Crooked Media.  I look into how often they release content, what kind of audiences they've reached, how well they've faired on the iTunes rankings chart, and what Crooked Media can take away from this analysis.  I had two main goals with this analysis.  One: to see what this data is capable of telling us at this time about these podcasts and the company.  And two: to see if I can provide any significant insights to Crooked Media about their podcasts and how they've been received.  
+
+Here are the sections of the report: (and just an FYI, if you're just interested in the analysis section, I suggest skipping section one.  But I highly recommend reading regardles!)
+
+## What is Crooked Meida? (Non-Data)
+## What audiences have they reached?
+## How have they done in the iTunes rankings?
+## What are the key take aways we can see?
+
+Together this gives a great overview on what Crooked Media has done this year and some insights they could use in future content creation.  Hope you enjoy!
 
 # What is Crooked Media?
 
