@@ -1,20 +1,29 @@
 # Crooked Media Report
 
-Crooked Media is a media company started from the guys behind "Keepin it 1600", the highly popular political
-podcast that emerged during the 2016 election.  The guys behind it (Jon, Jon and Tommy) were all former
-Obama staffers who, at least in my opinion, have created a successful voice for the progressive base.
+This report summarized my dive into the data around the podcasts from Crooked Media.  I look into how often they release content, what kind of audiences they've reached, how well they've faired on the iTunes rankings chart, and what Crooked Media can take away from this analysis.  I had two main goals with this analysis.  One: to see what this data is capable of telling us at this time about these podcasts and the company.  And two: to see if I can provide any significant insights to Crooked Media about their podcasts and how they've been received.  Lets dive into it!
 
-In 2017, under the Crooked Media umbrella, they've created five podcasts:
+# What is Crooked Media?
 
-Pod Save America.
+Crooked Media is a progressive, podcast-driven media company started in early 2017 from the guys behind "Keepin it 1600" podcast.  The founders (Jon, Jon, Tommy and Dan) are all former Obama staffers who have created a successful voice for the progressive base.  I am a
+huge plan of all the podcasts they've released so far and am extremely excited for how the company grows in the coming years.  
 
-Pod Save the World.
+The five podcasts Crooked Media has released are:
 
-With Friends Like These.
+Pod Save America - The main show behind Crooked Media, twice a week PSA tries to create a "No Bullshit" conversation, exploring what the 
+hell has been going on in politics over the past week, and featuring conversations with politicians, journalists and activists in hopes of 
+inspiring others to act.
 
-Lovett Or Leave It.
+Pod Save the World - Hosted by Tommy Veitor, this podcast explores the 'world' of foreign policy, interviewing many guests
+who have extensive experience working on FP in the White House.
 
-Pod Save the People.
+With Friends Like These - Hosted by Anna Marie Cox, WFLT dives into the uncomfortable conversations we don't want to have.  From dealing
+with taboo subjects like disabilities to blackness/white privalege, these conversations are deep, intense, awkward and fascinating.
+
+Lovett Or Leave It - A gameshow podcast hosted by Jon Levett, the host and three guests play games and rant about the absurd week in 
+poltiical news.  It's a fun time.
+
+Pod Save the People - Deray Mckesson's first podcast dives into the world activism and social issue driven culture with deep dives
+into the current and historical politics of progress.
 
 Below are timeseries that show the days on which each of the podcasts have spent in the itunes top 100 rankings:
 
