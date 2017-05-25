@@ -13,7 +13,7 @@ The five podcasts Crooked Media has released are:
 
 ## Pod Save America - 
 
-![alt text]((https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Pod_Save_America.png)
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Pod_Save_America.png)
 
 The main show behind Crooked Media, twice a week PSA tries to create a "No Bullshit" conversation, exploring what the 
 hell has been going on in politics over the past week, and featuring conversations with politicians, journalists and activists in hopes of 
