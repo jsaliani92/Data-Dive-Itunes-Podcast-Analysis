@@ -90,9 +90,14 @@ A gameshow podcast hosted by Jon Levett, the host and three guests play games an
 ### Julian's Review
 This show is such a good time.  It brightens my week.  There are some great rants in here by Lovett and his guests.  If you want a jovial Saturday afternoon workout, this is your show.
 
+<p align="center">
+
 ## Pod Save The People - 
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Pod_Save_The_People.png)
+
+</p>
+
 
 ### Release Date
 04/27/2017
