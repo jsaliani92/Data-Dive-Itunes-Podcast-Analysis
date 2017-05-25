@@ -124,28 +124,30 @@ Having defined what each variable is meant to show, let's look at the results of
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Audience_Reach_Scatter.png)
 
+Now there's something really interesting here.  Excluding Pod Save America, a podcast either has a high Twitter following and low iTunes review total or a low Twitter following and high iTunes review total.  
+
+Now what does that mean?  I believe it indicates different audience types that have traveled over to each podcast.  The ones with high Twitter followings have brought over listeners who are new to the podcast world, while 'Lovett Or Leave It' and 'Pod Save the World' have brought together audiences who are fairly podcast literate, likely who joined through the most successful Pod Save America.  It definitely helps that the hosts are also hosting Pod Save America...
+
+But is there other evidence to support this theory?  We'll need access to some more data.  Specifically, the iTunes top 100 podcast chart.
+
+### How have they done in the iTunes rankings?
 
 
 
-Below are timeseries that show the days on which each of the podcasts have spent in the itunes top 100 rankings:
 
-# Pod Save America
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Time_Line_Pod%20Save%20America.png)
-# Pod Save the World
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Time_Line_Pod%20Save%20the%20World.png)
-# With Friends Like These
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Time_Line_With%20Friends%20Like%20These.png)
-# Lovett or Leave It
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Time_Line_Lovett%20or%20Leave%20It.png)
-# Pod Save the People
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Time_Line_Pod%20Save%20the%20People.png)
 
-Looking at the timeseries, there are a few things to note.  Over 2017, these podcasts have been released in similar fashion, around a month between podcast releases.  Pod Save America, the podcast that's been out the longest, has been remarkably consistent in the top quarter of the rankings.  Being the brandname podcast, that is an incredible success to be in the top 25 throughout the whole year.  In fact, it's has the fifth highest average rank (5.75) podcast that has been on the chart at least a month.
 
-The other podcasts, while not achieving that high degree of success, have also had successful runs.  This table breaks down the days and % of time each podcast has spent in the top sections of the rankings:
 
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Tables/Total_Data_Table.png)
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Tables/Percent_Data_Table.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
