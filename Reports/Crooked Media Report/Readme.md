@@ -11,8 +11,7 @@ huge plan of all the podcasts they've released so far and am extremely excited f
 
 The five podcasts Crooked Media has released are:
 
-Pod Save America - ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Lovett_Or_Leave_It.png)
-The main show behind Crooked Media, twice a week PSA tries to create a "No Bullshit" conversation, exploring what the 
+Pod Save America - The main show behind Crooked Media, twice a week PSA tries to create a "No Bullshit" conversation, exploring what the 
 hell has been going on in politics over the past week, and featuring conversations with politicians, journalists and activists in hopes of 
 inspiring others to act.
 
@@ -22,7 +21,9 @@ who have extensive experience working on FP in the White House.
 With Friends Like These - Hosted by Anna Marie Cox, WFLT dives into the uncomfortable conversations we don't want to have.  From dealing
 with taboo subjects like disabilities to blackness/white privalege, these conversations are deep, intense, awkward and fascinating.
 
-Lovett Or Leave It - A gameshow podcast hosted by Jon Levett, the host and three guests play games and rant about the absurd week in 
+Lovett Or Leave It - 
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Lovett_Or_Leave_It.png)
+A gameshow podcast hosted by Jon Levett, the host and three guests play games and rant about the absurd week in 
 poltiical news.  It's a fun time.
 
 Pod Save the People - Deray Mckesson's first podcast dives into the world activism and social issue driven culture with deep dives
