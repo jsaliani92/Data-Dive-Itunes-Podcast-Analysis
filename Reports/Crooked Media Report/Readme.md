@@ -25,7 +25,12 @@ Below are timeseries that show the days on which each of the podcasts have spent
 # Pod Save the People
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Time_Line_Pod%20Save%20the%20People.png)
 
-Looking at the timeseries, you can see the 
+Looking at the timeseries, there are a few things to note.  Over 2017, these podcasts have been released in similar fashion, around a month between podcast releases.  Pod Save America, the podcast that's been out the longest, has been remarkably consistent in the top quarter of the rankings.  Being the brandname podcast, that is an incredible success to be in the top 25 throughout the whole year.  In fact, it's has the fifth highest average rank (5.75) podcast that has been on the chart at least a month.
+
+The other podcasts, while not achieving that high degree of success, have also had successful runs.  This table breaks down the days and % of time each podcast has spent in the top sections of the rankings:
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Tables/Total_Data_Table.png)
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Tables/Percent_Data_Table.png)
 
 
 
