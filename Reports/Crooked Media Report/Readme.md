@@ -6,11 +6,11 @@ Obama staffers who, at least in my opinion, have created a successful voice for 
 
 In 2017, under the Crooked Media umbrella, they've created five podcasts:
 
--Pod Save America
--Pod Save the World
--With Friends Like These
--Lovett Or Leave It
--Pod Save the People
+Pod Save America
+Pod Save the World
+With Friends Like These
+Lovett Or Leave It
+Pod Save the People
 
 Below are timeseries that show the days on which each of the podcasts have spent in the itunes top 100 rankings:
 
