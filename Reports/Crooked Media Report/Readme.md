@@ -4,6 +4,8 @@ This report summarized my dive into the data around the podcasts from Crooked Me
 
 # What is Crooked Media?
 
+So before we get to the data, lets talk about Crooked Media the company.
+
 Crooked Media is a progressive, podcast-driven media company started in early 2017 from the guys behind "Keepin it 1600" podcast.  The founders (Jon, Jon, Tommy and Dan) are all former Obama staffers who have created a successful voice for the progressive base.  I am a
 huge plan of all the podcasts they've released so far and am extremely excited for how the company grows in the coming years.  
 
@@ -25,13 +27,7 @@ poltiical news.  It's a fun time.
 Pod Save the People - Deray Mckesson's first podcast dives into the world activism and social issue driven culture with deep dives
 into the current and historical politics of progress.
 
-These five podcasts, while all focused on our political atmosphere, are all very unique.  The tones of each podcast are very unique, 
-mostly driven by the different host personalities.  While Faveraeu and Lovett push light-heartedness, Cox, Mckesson and Veitor push a more 
-serious tones that do affect the listening experience.  To me, they're all totally different listening experiences that I highly
-recommend to anyone remotely interested in these subjects.
 
-In addition to the topic and tone of the podcasts, we also should note the amount of content each podcast produces.  Using the following
-plot, we can what the average length of each podcast episode is, along with how many episodes they release per week.
 
 
 
