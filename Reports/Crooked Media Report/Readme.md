@@ -6,34 +6,92 @@ This report summarized my dive into the data around the podcasts from Crooked Me
 
 So before we get to the data, lets talk about Crooked Media the company.
 
-Crooked Media is a progressive, podcast-driven media company started in early 2017 from the guys behind "Keepin it 1600" podcast.  The founders (Jon, Jon, Tommy and Dan) are all former Obama staffers who have created a successful voice for the progressive base.  I am a
-huge plan of all the podcasts they've released so far and am extremely excited for how the company grows in the coming years.  
+Crooked Media is a progressive, podcast-driven media company started in early 2017 from the guys behind "Keepin it 1600" podcast.  The founders (Jon, Jon, Tommy and Dan) are all former Obama staffers who have created a successful voice for the progressive base.  I am a huge plan of all the podcasts they've released so far and am extremely excited for how the company grows in the coming years.  
 
-The five podcasts Crooked Media has released are:
+The five Crooked Media podcasts are:
 
-## Pod Save America - 
+## Pod Save America 
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Pod_Save_America.png)
 
-The main show behind Crooked Media, twice a week PSA tries to create a "No Bullshit" conversation, exploring what the 
-hell has been going on in politics over the past week, and featuring conversations with politicians, journalists and activists in hopes of 
-inspiring others to act.
+### Release Date
+01/10/2017
 
-Pod Save the World - Hosted by Tommy Veitor, this podcast explores the 'world' of foreign policy, interviewing many guests
-who have extensive experience working on FP in the White House.
+### Hosts
+Jon Favereau (@), Jon Lovett (@), Tommy Veitor (@) and Dan Phieffer (@)
 
-With Friends Like These - Hosted by Anna Marie Cox, WFLT dives into the uncomfortable conversations we don't want to have.  From dealing
-with taboo subjects like disabilities to blackness/white privalege, these conversations are deep, intense, awkward and fascinating.
+### When does it come out?
+Mondays and Thursdays each week
+
+### Description
+Twice a week, the founders of Crooked Media get together to have a "No Bullshit" conversation, exploring what the hell has been going on in politics over the past week, and featuring conversations with politicians, journalists and activists in hopes of inspiring others to act.  I love this show; it's probably my favorite political news show right now.  Favs, the only member on both the Monday and Thursday shows, creates both a serious and light-hearted conversation where I'm both engaged on in the conversation, but I also learn pretty indepth coverage of topics I wouldn't normally explore.  This especially comes into play during the guest interviews, whether it be the Mayor of LA (Eric Garcetti) or founders of the Indivisible movement (). 
+
+
+## Pod Save the World 
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Pod_Save_The_World.png)
+
+### Release Date
+02/01/2017
+
+### Host
+Tommy Veitor (@)
+
+### Description
+Pod Save the World explores the 'world' of foreign policy, with Tommy interviewing guests whose careers have been about exploring the in and outs of international foreign policy.  He's covered experts on the recent French elections, the Russian state, and the negotiations with Iran over the nuclear deal.  And while these conversations are in-depth, Tommy is able to humanize both the topic their covering and the guest themself, giving them time to explain why their passionate about these issues and what effect the topics could actually have on the listeners life.  
+
+### Julian's Review
+While not a foreign policy buff, I've definitely learned  a lot about diplomacy through listening to this pod.  I really did think that these foreign policy decisions were made through extreme scrutiny and precisions.  But as Tommy says in his early episodes, it really comes down to a room of people making huge decisions with incomplete data and less-than ideal situations.
+
+
+## With Friends Like These
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/With_Friends_Like_These.png)
+
+### Release Date
+02/22/2017
+
+### Host
+Anna Marie Cox (@)
+
+### Description
+With Friends Like These is about confronting an idealogy that I never thought of before listening to the show: "Discomfort is a tool of Oppresions". The show dives into the uncomfortable conversations we really don't want to have, but really should if we want to progress. Covering Tabboo subjects like white privilege, disabilities and gender identity, Marie Cox brings her listeners into some deep, intense, and awkward conversations.  This is probably my favorite podcast
+
+### Julian's Review
+This is probably my favorite podcast of the bunch.  It's conversations are tough but super rewarding for the listener, and I feel Marie Cox is both vulnerable and focused in all of the conversations.  I am beyond appreciative of what she's doing on her show.
 
 ## Lovett Or Leave It - 
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Lovett_Or_Leave_It.png)
 
-A gameshow podcast hosted by Jon Levett, the host and three guests play games and rant about the absurd week in 
-poltiical news.  It's a fun time.
+### Release Date
+03/18/2017
 
-Pod Save the People - Deray Mckesson's first podcast dives into the world activism and social issue driven culture with deep dives
-into the current and historical politics of progress.
+### Host
+Jon Lovett (@)
+
+### Description
+A gameshow podcast hosted by Jon Levett, the host and three guests play games and rant about the absurd week in poltical news.  The guests range from journalists to comedians, and is taped in front of a live audience.  It's like "Wait Wait, Don't Tell Me" but for political junkies.
+
+### Julian's Review
+This show is such a good time.  It brightens my week.  There are some great rants in here by Lovett and his guests.  If you want a jovial Saturday afternoon workout, this is your show.
+
+## Pod Save The People - 
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Pod_Save_The_People.png)
+
+### Release Date
+04/27/2017
+
+### Host
+Deray Mckesson (@)
+
+### Description
+Pod Save the People dives into the world of local activism and social issue driven culture.  Mckesson interviews guests, covers the weekly news with Sam () and ___ (), and gives the listener advice on how to both get involved, and stay involved, with activism they care about.
+
+### Julian's Review
+My favorite thing about this podcast is the advice Mckesson's gives to the listener.  The rules are simple but powerful, and it gives me constant perspective on how to deal with the issue's I'm passionate about and stay active.  While this is the youngest of the Crooked Media shows, I'm excited to see what this one grows into over time!
+
 
 
 
