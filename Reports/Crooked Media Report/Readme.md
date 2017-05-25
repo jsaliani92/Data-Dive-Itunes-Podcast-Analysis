@@ -21,7 +21,8 @@ who have extensive experience working on FP in the White House.
 With Friends Like These - Hosted by Anna Marie Cox, WFLT dives into the uncomfortable conversations we don't want to have.  From dealing
 with taboo subjects like disabilities to blackness/white privalege, these conversations are deep, intense, awkward and fascinating.
 
-Lovett Or Leave It - 
+## Lovett Or Leave It - 
+
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Lovett_Or_Leave_It.png)
 A gameshow podcast hosted by Jon Levett, the host and three guests play games and rant about the absurd week in 
 poltiical news.  It's a fun time.
