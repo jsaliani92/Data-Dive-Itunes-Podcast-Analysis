@@ -25,6 +25,19 @@ poltiical news.  It's a fun time.
 Pod Save the People - Deray Mckesson's first podcast dives into the world activism and social issue driven culture with deep dives
 into the current and historical politics of progress.
 
+These five podcasts, while all focused on our political atmosphere, are all very unique.  The tones of each podcast are very unique, 
+mostly driven by the different host personalities.  While Faveraeu and Lovett push light-heartedness, Cox, Mckesson and Veitor push a more 
+serious tones that do affect the listening experience.  To me, they're all totally different listening experiences that I highly
+recommend to anyone remotely interested in these subjects.
+
+In addition to the topic and tone of the podcasts, we also should note the amount of content each podcast produces.  Using the following
+plot, we can what the average length of each podcast episode is, along with how many episodes they release per week.
+
+
+
+
+
+
 Below are timeseries that show the days on which each of the podcasts have spent in the itunes top 100 rankings:
 
 # Pod Save America
