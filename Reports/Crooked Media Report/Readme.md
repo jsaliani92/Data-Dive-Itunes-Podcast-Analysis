@@ -93,9 +93,12 @@ This show is such a good time.  It brightens my week.  There are some great rant
 
 ## Pod Save The People - 
 
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Pod_Save_The_People.png)
+
 <p align="center">
 
-<![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Pod_Save_The_People.png)>
+img width="300" height="300" src="![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Input/Pod_Save_The_People.png)"
 
 </p>
 
