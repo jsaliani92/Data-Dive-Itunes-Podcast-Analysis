@@ -4,7 +4,7 @@ This report summarized my dive into the data around the podcasts from Crooked Me
 
 Here are the sections of the report: 
 
-### What is Crooked Meida? (Non-Data)
+### What is Crooked Meida? (Non-Data Section)
 ### What audiences have their podcasts reached?
 ### How have they done in the iTunes rankings?
 ### What are the key take aways we can see?
@@ -114,27 +114,31 @@ Overall, I'm a huge fan of these podcasts and what Crooked Media has done this y
 
 There are a couple ways to go about this question, but I chose to compared two metrics; the total number of iTunes rankings for each podcast, and the twitter reach of each of the podcast hosts.  I chose these two metrics because they give two indications on what audience the potential podcasts could reach.
 
-### iTunes Review Totals
+### Podcast iTunes Review Totals
 iTunes reviews are probably the best way a podcast supporter can voice thier support for their show.  After the end of any podcast one listens to, the host will recommend their listeners to make the effort, go into the iTunes app store and write a review for their show.  This is apparently a significant help in boosting the shows up in the iTunes ranking charts, which we will explore later.  This leads to futher exposure through the main iTunes podcast pages promoting the popular podcast for new users.  It gives a great idea of how passionate a podcast's audience can be.
 
-### Twitter Host Followings
+### Podcast Host Twitter Followings
 Knowing the host's social media following is key as it's one of, if not the most, primary way to advertise their show.  If host's with large audiences can bring in their Twitter followings to the podcast world, that is an easy and potentially quick way to grow an audience listenership right at the onset of the show.
 
 Having defined what each variable is meant to show, let's look at the results of plotting them against one another:
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Audience_Reach_Scatter.png)
 
-Now there's something really interesting here.  Excluding Pod Save America, a podcast either has a high Twitter following and low iTunes review total or a low Twitter following and high iTunes review total.  
+Now there's something really interesting here.  Excluding Pod Save America (which is high on both metrics), a Crooked Media podcast either has a high Twitter following and low iTunes review total or a low Twitter following and high iTunes review total.  
 
-Now what does that mean?  I believe it indicates different audience types that have traveled over to each podcast.  The ones with high Twitter followings have brought over listeners who are new to the podcast world, while 'Lovett Or Leave It' and 'Pod Save the World' have brought together audiences who are fairly podcast literate, likely who joined through the most successful Pod Save America.  It definitely helps that the hosts are also hosting Pod Save America...
+### Now what does that mean?  
+
+I believe it indicates different audience types that have traveled over to each podcast.  The ones with high Twitter followings have brought over listeners who are new to the podcast world, whom are less likely to leave review's in the iTunes store.  'Lovett Or Leave It' and 'Pod Save the World', on the other hand, have brought together audiences who are fairly podcast literate, likely those who joined through the most successful podcast Pod Save America.
 
 But is there other evidence to support this theory?  We'll need access to some more data.  Specifically, the iTunes top 100 podcast chart.
 
-### How have they done in the iTunes rankings?
+## How have they done in the iTunes rankings?
 
+Using itunescharts.net, I downloaded the top 100 rankings for everyday in 2017.  I then identified the Crooked Media podcasts and when they entered the charts.  Below is a timeseries that shows where each of the five podcasts ranked in the top 100 in 2017.  I have highlighted the dates when the podcasts were released with dotted lines.
 
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total.png)
 
-
+We can see a couple things of note here.  First, Pod Save America is the only podcast to stay in the upper quarter part of the rankings throughout it's entire run.  All of the other podcasts dip into the lower parts of the rankings at some point.  Second, as of right now, only 'With Friends Like These' is the only podcast to dip out of the top 100 rankings, but it does enter back into the rankings after doing so.  Third, 'Pod Save the World' and 'Lovett or Leave It' seem to be battling it out as of recently, with four lead changes at the beginning of this month until Lovett leaped ahead.  I'm sure that is ruffling Tommy's feathers.  And finally, Pod Save the People seems to have had a great initial launch early this month, but has fallen significantly in the past week.  This could be due to the show failing to release an episode this week.
 
 
 
