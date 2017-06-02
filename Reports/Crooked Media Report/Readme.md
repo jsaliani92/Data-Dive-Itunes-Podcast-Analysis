@@ -1,23 +1,21 @@
 # Crooked Media 2017 Podcast Report (In-progress)
 
-This report summarized my dive into the data around the podcasts from Crooked Media.  I look into how often they release content, what kind of audiences they've reached, how well they've faired on the iTunes rankings chart, and what Crooked Media can take away from this analysis.  I had two main goals with this analysis.  One: to see what this data is capable of telling us at this time about these podcasts and the company.  And two: to see if I can provide any significant insights to Crooked Media about their podcasts and how they've been received.  
+This report is an exercise in trying to use the data from itunescharts.net, the iTunes App Store, and Twitter. In order to focus the results, I decided to analyze the podcasts from one of my favorite media companies 'Crooked Media'. I had two main goals with this analysis. One: to see if there are any ways to manipulate the data into giving insights on how these shows are being consumed. And two: to see if those insights could be leveraged by Crooked Media themselves, so they can benefit from me performing this analysis.
 
-Here are the sections of the report: 
+Here are the report sections: 
 
-### What is Crooked Meida? (Non-Data Section)
-### What audiences have their podcasts reached?
-### How have they done in the iTunes rankings?
-### What are the key take aways we can see?
+### Crooked Media: What is it?
+### Have their podcast's reached different audiences?
+### How have they performed on the charts?
+### What can we expect in the future?
 
-(and an FYI, if you're just interested in the analysis section, you can skip the first section.  But I highly recommend reading, it's an awesome section!!)
+Together I believe this gives a great overview on the success Crooked Media has done this year and some insights they could use in future content creation. 
 
-Together this gives a great overview on what Crooked Media has done this year and some insights they could use in future content creation.  Hope you enjoy!
+# Crooked Media: What is it?
 
-# What is Crooked Media?
+So before we get to the data, lets talk about our subject, Crooked Media.
 
-So before we get to the data, lets talk about Crooked Media the company.
-
-Crooked Media is a progressive, podcast-driven media company started in early 2017 from the guys behind "Keepin it 1600" podcast.  The founders (Jon, Jon, Tommy and Dan) are all former Obama staffers who have created a successful voice for the progressive base.  I am a huge plan of all the podcasts they've released so far and am extremely excited for how the company grows in the coming years.  
+Crooked Media is a progressive, podcast-driven media company started in early 2017. From the guys behind "Keepin it 1600" podcast, the founders (Jon Faverau, Jon Lovett, Tommy Veitor and Dan Phieffer) are all former Obama staffers who have created a successful voice to amplify the progressive base. I am a huge plan of all the podcasts they've released so far and am extremely excited for how the company grows in the coming years. 
 
 The five Crooked Media podcasts are:
 
@@ -35,10 +33,10 @@ Jon Favereau (@), Jon Lovett (@), Tommy Veitor (@) and Dan Phieffer (@)
 Mondays and Thursdays each week
 
 ### Description
-Twice a week, the founders of Crooked Media get together to have a "No Bullshit" conversation, exploring what the hell has been going on in politics over the past week, and featuring conversations with politicians, journalists and activists in hopes of inspiring others to act.  
+Twice a week, the founders of Crooked Media get together to have a "No Bullshit" conversation around the weeks politics. They explore what the hell has been going on in politics (most specifically the Trump administration), while also featuring conversations with politicians, journalists and activists in hopes of inspiring their listeners to act.
 
-### Julian's Review
-I love this show; it's probably my favorite political news show right now.  Favs, the only member on both the Monday and Thursday shows, creates both a serious and light-hearted conversation where I'm both engaged on in the conversation, but I also learn pretty indepth coverage of topics I wouldn't normally explore.  This especially comes into play during the guest interviews, whether it be the Mayor of LA (Eric Garcetti) or founders of the Indivisible movement (). 
+### My Personal Review
+I love this show; it's probably my favorite political news show out right now (sorry FiveThirtyEight Politics). Favs, the only Crooked member on both the Monday and Thursday shows, creates both a serious and light-hearted conversation, where I'm both engaged as a listener, but also learn quite a bit around many topics I wouldn't normally explore. This especially comes into play during the guest interviews, whether it be the Mayor of LA (Eric Garcetti) or founders of the Indivisible movement (). It's a great listen I would recommend to anyone whose interested in progressive politics.
 
 
 ## Pod Save the World 
@@ -51,11 +49,14 @@ I love this show; it's probably my favorite political news show right now.  Favs
 ### Host
 Tommy Veitor (@)
 
-### Description
-Pod Save the World explores the 'world' of foreign policy, with Tommy interviewing guests whose careers have been about exploring the in and outs of international foreign policy.  He's covered experts on the recent French elections, the Russian state, and the negotiations with Iran over the nuclear deal.  And while these conversations are in-depth, Tommy is able to humanize both the topic their covering and the guest themself, giving them time to explain why their passionate about these issues and what effect the topics could actually have on the listeners life.  
+### When does it come out?
+Wednesdays every week
 
-### Julian's Review
-While not a foreign policy buff, I've definitely learned  a lot about diplomacy through listening to this pod.  I really did think that these foreign policy decisions were made through extreme scrutiny and precisions.  But as Tommy says in his early episodes, it really comes down to a room of people making huge decisions with incomplete data and less-than ideal situations.
+### Description
+Pod Save the World explores the 'world' of foreign policy, with Tommy interviewing guests whose careers have been about exploring the in and outs of international foreign policy. He's covered experts on the recent French elections, the oppresive atmosphere of the Russian state, and what it was like to be in negotiations with Iran while crafting the nuclear deal. 
+
+### My Personal Review
+Not being a foreign policy buff myself, I've definitely learned a lot from this pod. While the conversations are in-depth, Tommy makes the topic relatable and humanizes whoever he's talking with, giving them time to explain why their passionate about these issues. Before this pod, I really thought that foreign policy decisions were made with the utmost confidence and put through extreme scrutiny. But as Tommy makes clear in his early episodes, it usually comes down to a room of people making huge decisions with incomplete data in less-than ideal situations.
 
 
 ## With Friends Like These
@@ -68,11 +69,14 @@ While not a foreign policy buff, I've definitely learned  a lot about diplomacy 
 ### Host
 Anna Marie Cox (@)
 
-### Description
-With Friends Like These is about confronting an idealogy that I never thought of before listening to the show: "Discomfort is a tool of Oppresions". The show dives into the uncomfortable conversations we really don't want to have, but really should if we want to progress. Covering Tabboo subjects like white privilege, disabilities and gender identity, Marie Cox brings her listeners into some deep, intense, and awkward conversations.  This is probably my favorite podcast
+### When does it come out?
+Fridays every week
 
-### Julian's Review
-This is probably my favorite podcast of the bunch.  It's conversations are tough but super rewarding for the listener, and I feel Marie Cox is both vulnerable and focused in all of the conversations.  I am beyond appreciative of what she's doing on her show.
+### Description
+With Friends Like These is about confronting this core belief: "Discomfort is a tool of oppression". Covering Tabboo subjects like white privilege, disabilities and gender identity, Marie Cox brings her listeners into some deep, intense, and (most importantly) awkward conversations.
+
+### My Personal Review
+This is probably my favorite podcast of the bunch. As someone who loves indepth, personal conversations, the 'real-ness' of this podcast is incredible. It's conversations are tough but super rewarding for the listener, and I feel Marie Cox is both vulnerable and focused as a host. I am beyond appreciative of what she's doing with this show.
 
 ## Lovett Or Leave It - 
 
@@ -84,11 +88,14 @@ This is probably my favorite podcast of the bunch.  It's conversations are tough
 ### Host
 Jon Lovett (@)
 
-### Description
-A gameshow podcast hosted by Jon Levett, the host and three guests play games and rant about the absurd week in poltical news.  The guests range from journalists to comedians, and is taped in front of a live audience.  It's like "Wait Wait, Don't Tell Me" but for political junkies.
+### When does it come out?
+Saturdays each week
 
-### Julian's Review
-This show is such a good time.  It brightens my week.  There are some great rants in here by Lovett and his guests.  If you want a jovial Saturday afternoon workout, this is your show.
+### Description
+On this hilarious game show podcast, Jon and three guests rant about the absurdity in the past weeks political news cycle. From guessing which ridiculous pundit quotes are real to the all too famous "Rant wheel", this podcast is focused on the laughs, but brings along some solid substance. The guests range from journalists to comedians, and is taped in front of a live audience. It's basically "Wait Wait, Don't Tell Me", but for political junkies in need of a smile.
+
+### My Personal Review
+This show is such a good time. It brightens my week. There are some great rants in here by Lovett and his guests. If you want a jovial Saturday afternoon workout, this is your new show.
 
 
 ## Pod Save The People - 
@@ -102,56 +109,117 @@ This show is such a good time.  It brightens my week.  There are some great rant
 ### Host
 Deray Mckesson (@)
 
+### When does it come out?
+Tuesdays most weeks
+
 ### Description
-Pod Save the People dives into the world of local activism and social issue driven culture.  Mckesson interviews guests, covers the weekly news with Sam () and ___ (), and gives the listener advice on how to both get involved, and stay involved, with activism they care about.
+Pod Save the People dives into the world of activism and social issue driven culture. Mckesson has indept interviews with interesting guests (Cory Booker, Edward Snowden), covers the weekly news with Sam () and ___ (), and gives the listener advice on how to get involved (and stay involved) in their issues.
 
-### Julian's Review
-My favorite thing about this podcast is the advice Mckesson's gives to the listener.  The rules are simple but powerful, and it gives me constant perspective on how to deal with the issue's I'm passionate about and stay active.  While this is the youngest of the Crooked Media shows, I'm excited to see what this one grows into over time!
+### My Personal Review
+My favorite thing about this podcast is the advice Mckesson's provides to the listener. The rules are simple but powerful, and it gives me consistent perspective on how to deal with the issue's I'm passionate about. Since this is the youngest of the Crooked Media shows, I'm very excited to see what this one grows into over time!
 
-Overall, I'm a huge fan of these podcasts and what Crooked Media has done this year.  It's impressive and I can't wait to see their new shows, but also how each of these shows grow over the coming years.  But now, let's dive into the fun stuff: what does the data say about Crooked Media?
+###Overall
+I'm a huge fan of these podcasts and what Crooked Media has done this year. It's impressive and I can't wait to see their new shows, but also how each of these shows grow over the coming years. 
 
-## What audiences have their podcasts reached?
+But now, let's dive into the fun stuff: what does the data say about Crooked Media?
 
-There are a couple ways to go about this question, but I chose to compared two metrics; the total number of iTunes rankings for each podcast, and the twitter reach of each of the podcast hosts.  I chose these two metrics because they give two indications on what audience the potential podcasts could reach.
+## How successful have these podcasts been?
 
-### Podcast iTunes Review Totals
-iTunes reviews are probably the best way a podcast supporter can voice thier support for their show.  After the end of any podcast one listens to, the host will recommend their listeners to make the effort, go into the iTunes app store and write a review for their show.  This is apparently a significant help in boosting the shows up in the iTunes ranking charts, which we will explore later.  This leads to futher exposure through the main iTunes podcast pages promoting the popular podcast for new users.  It gives a great idea of how passionate a podcast's audience can be.
+The easiest way to measure success, for any podcast, is to check out if they've cracked into the top 100 chart on itunes. Everyday, apple releases the Top 100 podcasts. This list fluctuates pretty often, so staying in the chart for more than a week is a huge accomplishment. 
 
-### Podcast Host Twitter Followings
-Knowing the host's social media following is key as it's one of, if not the most, primary way to advertise their show.  If host's with large audiences can bring in their Twitter followings to the podcast world, that is an easy and potentially quick way to grow an audience listenership right at the onset of the show.
+For each of the Crooked Media podcasts, they've all spent over 90% of the time they've been out in the Top 100. Let me repeat that: each podcast has spent almost all of their existence in the Top 100.
 
-Having defined what each variable is meant to show, let's look at the results of plotting them against one another:
+Take a look at the table below to see the percent of time they've spent in different parts of the chart.
 
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Audience_Reach_Scatter.png)
+###[insert table image here]
 
-Now there's something really interesting here.  Excluding Pod Save America (which is high on both metrics), a Crooked Media podcast either has a high Twitter following and low iTunes review total or a low Twitter following and high iTunes review total.  
+And the fact that they all average a top 50 ranking is extremely impressive. Plus, all of the podcasts are what's called 'interview based' podcasts, where each show is a non-scripted conversation with minimal production needed. A show with as little production value as possible with extremely good performance is perfect for a company growing like Crooked Media is.
 
-### Now what does that mean?  
+Now acknowledging that these podcasts have all been fairly successful, there is a difference in how each show has succeeded. We can see that by looking at how the shows have performed over the course of 2017, which I've shown below.
 
-I believe it indicates different audience types that have traveled over to each podcast.  The ones with high Twitter followings have brought over listeners who are new to the podcast world, whom are less likely to leave review's in the iTunes store.  'Lovett Or Leave It' and 'Pod Save the World', on the other hand, have brought together audiences who are fairly podcast literate, likely those who joined through the most successful podcast Pod Save America.
-
-But is there other evidence to support this theory?  We'll need access to some more data.  Specifically, the iTunes top 100 podcast chart.
-
-## How have they done in the iTunes rankings?
-
-Using itunescharts.net, I downloaded the top 100 rankings for everyday in 2017.  I then identified the Crooked Media podcasts and when they entered the charts.  Below is a timeseries that shows where each of the five podcasts ranked in the top 100 in 2017.  I have highlighted the dates when the podcasts were released with dotted lines.
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total.png)
 
-We can see a couple things of note here.  First, Pod Save America is the only podcast to stay in the upper quarter part of the rankings throughout it's entire run.  All of the other podcasts dip into the lower parts of the rankings at some point.  Second, as of right now, only 'With Friends Like These' is the only podcast to dip out of the top 100 rankings, but it does enter back into the rankings after doing so.  Third, 'Pod Save the World' and 'Lovett or Leave It' seem to be battling it out as of recently, with four lead changes at the beginning of this month until Lovett leaped ahead.  I'm sure that is ruffling Tommy's feathers.  And finally, Pod Save the People seems to have had a great initial launch early this month, but has fallen significantly in the past week.  This could be due to the show failing to release an episode this week.
+We can see a couple things here. 
+
+First, Pod Save America is the only podcast to stay in the upper quarter part of the rankings throughout it's entire run. All of the other podcasts dip into the lower parts of the rankings at one point or another. This isn't too shocking as Crooked pours the most amount of time, resources and hosts into this podcast, as well as it being what launched the company back before the inauguration. 
+
+Second, as of right now, only 'With Friends Like These' has ever dipped out of the top 100 rankings, but it does bounce back after doing so. I would expect this to be the case because that podcasts subject matter is very personal and intense, which likely attracts a smaller audience. 
+
+Third, 'Pod Save the World' and 'Lovett or Leave It' seem to be battling it out as of recently! I'm sure that is ruffling both Tommy's and Jon's feathers, as the two hosts usually banter with each other all the time. 
+
+And fourth, Pod Save the People seems to have had a great initial launch but has fallen significantly in the past week. This could be due to the show failing to release an episode this week.
+
+We can also line up the shows to see if any of them seem to follow similar patterns.
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total2.png)
+
+First off, all of the shows have amazing initial releases. All of the podcasts stay within the top 5 for their first 10 days, which likely speaks to the distribution power Crooked Media has created. I like to call it "The Crooked Effect".
+
+But after that, there appear to be three types of patterns. First is PSA, which stays within the top 25 during the whole year. 
+
+### PSA timeseries
+
+Second are Lovett or Leave It & Pod Save The World, which stay within the top 50 to top 25 for most of their time.
+
+### LOLI & PSTW Timeseries
+
+And Third, PSTP & WFLT have significant drop offs after it's initial release, which WFLT hovering between the top and bottom half of the chart for it's existence.
+
+#### PSTP & WFLT timeseries.
+
+Now why are these patterns different depending on the show? I believe it stems from how the shows are being distributed, with PSA/LOLI/PSTW reaching podcast enthusiasts while WFLT & PSTP trying to convert audiences from other media platforms to podcasts, a much harder task overall.
+
+Allow me to explain
+
+## Have their podcast's reached different audiences?
+
+Whenever your distributing different types of media, one should ask themselves 'What audiences am I reaching?' Is certain content reaching different audiences compared to others? Or am I always reaching the same groups of folks with everything I produce?
+
+Based on the iTunes rankings, that isn't the case across the different podcasts. Clearly there are smaller sections of Crooked's audience listening to WFLT & PSTP compared to the others. But why?
+
+There are a many ways to go about answering this question, and it would certainly be easier if we had access to Crooked's iTunes listener data. But there are still ways to find an answer by using publically available data. Specifically we'll look at two variables: the number of people who have reviewed each podcast on iTunes, and the number of Twitter followers of each of the podcast host.
+
+Let's breakdown the value behind each variable.
+
+### Podcast iTunes Review Totals
+After the end of any podcast you listen to, the host will recommend their listeners to go into the iTunes app store and write a review for their show. Ranking a podcast is one of the best ways to boost a podcast up in the iTunes ranking charts (that's what the hosts say at least). By just listening to more podcasts and hearing that message over and over again, passionate podcast listeners are more likely to review podcasts than new time listeners.
+
+Bottom line - if you have a lot of iTunes ratings, you likely have exposed your podcast to a large group of passionate podcast listeners.
+
+### Podcast Host Twitter Followings
+For many podcasts, social media is the best way to advertise your podcast quickly and effectively to your audience. Host's who start podcasts with a large twitter following can often transfer many of their followers into immediate podcast listeners. Look at Stephen Colbert last year and Larry Wilmore this year. It's simple cross platform migration. And the bigger the audience, the more potential for cross over support.
+
+Bottom line - A large presence on Twitter could lead to a large number of supporters for a podcast.
+
+Now let's look at how the podcasts compare across these two metrics.
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Audience_Reach_Scatter.png)
+
+Excluding Pod Save America (which is high in both metrics), a Crooked Media podcast either has a high Twitter following and low iTunes review total, or a low Twitter following and high iTunes review total. 
+
+What does that mean exactly? 
+
+I believe it indicates the different audiences that support each of the podcast.
 
 
+'Pod Save the World' and 'Lovett or Leave It' have garnered significantly more iTunes reviews than 'Pod Save the People' or 'With Friends like These'. But they both have much smaller reaches on Twitter compared to the other two podcast hosts. So where are they getting all those reviewers from?
+
+Well the hosts of PSTW and LOLI are also hosts of Pod Save America, which could be driving many more already ardent supporters of PSA to those two podcasts before PSTP & PSTW. In other words, if you listen to PSA, your probably more likely to listen to PSTW and LOLI than WFLT or PSTP. We can't exactly prove that with public data, but it's a likely indication.
+
+While not great news for PSTP & WFLT, it also shows there's even more room for improvement. Remember all of these podcasts have been in top 100 chart for most, or all of their life cycles. They just need a little help to spread their audience a bit more.
 
 
+##So, how could Crooked grow these audiences more?
 
 
+###Cross promote all shows across all twitter host accounts.
+While obviously self promotional, making sure all of the hosts promote all of the shows under the Crooked Media empire provides a quick way to reach as many of those audience members as possible
+###Allow other hosts to host Pod Save America
+Since it is the strongest show with the largest podcast supporting audience, finding ways to get the hosts involved could give some great exposure. Inviting Marie Cox and Deray to co-host instead of coming on for one segment. That way listeners have more exposure to them earlier on in the episodes.
+###Feature certain podcasts across all Crooked podcast partners
+NPR, WNYC and Serial all feature other podcast episodes on their feeds so those audiences can get a taste of other podcasts under their group of podcasts. I would suggest featuring a specific podcast each week across all the podcast streams. That would give some great exposure to every podcast across the audiences.
+###Bring on hosts as guests on different Crooked podcasts
+Another way to expose the audiences would be bring on fellow hosts as guests on different podcasts. I personally think Veitor guesting on WFLT and bringing Deray on LOLI would be some great shows where you can expose those audiences to different shows.
 
-
-
-
-
-
-
-
-
-
+--------------------------
