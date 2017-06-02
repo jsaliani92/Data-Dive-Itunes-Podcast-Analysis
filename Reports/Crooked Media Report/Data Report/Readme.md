@@ -97,7 +97,7 @@ Now let's look at how the podcasts compare across these two metrics.
 
 Excluding Pod Save America (which is high in both metrics), a Crooked Media podcast either has a high Twitter following and low iTunes review total, or a low Twitter following and high iTunes review total. 
 
-What does that mean exactly? 
+## What does that mean exactly? 
 
 I believe it indicates the different audiences that support each of the podcast.
 
