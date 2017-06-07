@@ -1,7 +1,9 @@
 # Itunes-Podcast-Chart-Analysis
-This repo uses R to analyze and visualize itunescharts.net data by picking specific podcasts of interest.  First analysis is on 'Crooked Media'.
+## This Repo is in-progress!
 
-Below are some of the images I'm creating in this repo.
+This repo is meant to bring iTunes ranking data along with publically available social media and podcast data to analyze certain groups of podcasts against one another.  The first dive is on the five podcasts from crooked media.  Look in the Reports folder to see the most current form of the report!
+
+Below are some of the images I've created using code from this repo.
 
 # Individual podcast timelines
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Time_Line_Pod%20Save%20America.png)
