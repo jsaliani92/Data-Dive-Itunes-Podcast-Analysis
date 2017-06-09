@@ -99,7 +99,7 @@ Excluding Pod Save America (which is high in both metrics), a Crooked Media podc
 
 ## What does that mean exactly? 
 
-I believe it indicates the different audiences that support each of the podcast.
+It likely indicates the different audiences that support each of the podcast.
 
 
 'Pod Save the World' and 'Lovett or Leave It' have garnered significantly more iTunes reviews than 'Pod Save the People' or 'With Friends like These'. But they both have much smaller reaches on Twitter compared to the other two podcast hosts. So where are they getting all those reviewers from?
@@ -110,14 +110,13 @@ While not great news for PSTP & WFLT, it also shows there's even more room for i
 
 
 ## So, how could Crooked grow these audiences more?
-### What Insights Have We Uncovered?
 
 
 ### Cross promote all shows across all twitter host accounts.
-While obviously self promotional, making sure all of the hosts promote all of the shows under the Crooked Media empire provides a quick way to reach as many of those audience members as possible
+While obviously self promotional, making sure all of the hosts promote all of the shows under the Crooked Media empire provides a quick way to reach as many of those audience members as possible.
 
-### Allow other hosts to host Pod Save America
-Since it is the strongest show with the largest podcast supporting audience, finding ways to get the hosts involved could give some great exposure. Inviting Marie Cox and Deray to co-host instead of coming on for one segment. That way listeners have more exposure to them earlier on in the episodes.
+### Allow other hosts to host Pod Save America (without Jon Favs, the main host)
+Since it is the strongest show of the bunch, finding ways to get the hosts involved more than they are now can give some great exposure to PSTP & WFLT. Inviting Marie Cox and Deray to co-host instead of coming on for one segment could be very cool. That way listeners have more exposure to them earlier on in the episodes.
 
 ### Feature certain podcasts across all Crooked podcast partners
 NPR, WNYC and Serial all feature other podcast episodes on their feeds so those audiences can get a taste of other podcasts under their group of podcasts. I would suggest featuring a specific podcast each week across all the podcast streams. That would give some great exposure to every podcast across the audiences.
