@@ -62,11 +62,11 @@ But after that, there appear to be three types of patterns. First is PSA, which 
 
 Second are Lovett or Leave It & Pod Save The World, which stay within the top 50 to top 25 for most of their time.
 
-### LOLI & PSTW Timeseries
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_LovettVSWorld.png)
 
 And Third, PSTP & WFLT have significant drop offs after it's initial release, which WFLT hovering between the top and bottom half of the chart for it's existence.
 
-### PSTP & WFLT timeseries.
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_PeopleVSFriends.png)
 
 Now why are these patterns different depending on the show? I believe it stems from how the shows are being distributed, with PSA/LOLI/PSTW reaching podcast enthusiasts while WFLT & PSTP trying to convert audiences from other media platforms to podcasts, a much harder task overall.
 
