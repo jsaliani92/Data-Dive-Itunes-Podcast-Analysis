@@ -4,9 +4,10 @@ This report is an exercise in trying to use the data from itunescharts.net, the 
 
 Here are the report sections: 
 
+### Crooked Media: What is it?
 ### How Successful Are These Podcasts?
 ### What Are The Different Audiences Across The Podcasts?
-### What Insights Have We Uncovered?
+### How Can Crooked Media Use this Analysis
 
 Together I believe this gives a great overview on the success Crooked Media has done this year and some insights they could use in future content creation. 
 
@@ -22,7 +23,7 @@ If you want check out specifics, here's a link to my report doc in the other par
 
 https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/tree/master/Reports/Crooked%20Media%20Report/Podcast%20Reviews
 
-## How successful have these podcasts been?
+# How successful have these podcasts been?
 
 The easiest way to measure success, for any podcast, is to check out if they've cracked into the top 100 chart on itunes. Everyday, apple releases the Top 100 podcasts. This list fluctuates pretty often, so staying in the chart for more than a week is a huge accomplishment. 
 
@@ -30,7 +31,7 @@ For each of the Crooked Media podcasts, they've all spent over 90% of the time t
 
 Take a look at the table below to see the percent of time they've spent in different parts of the chart.
 
-###[insert table image here]
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Tables/Total_Data_Table.png)
 
 And the fact that they all average a top 50 ranking is extremely impressive. Plus, all of the podcasts are what's called 'interview based' podcasts, where each show is a non-scripted conversation with minimal production needed. A show with as little production value as possible with extremely good performance is perfect for a company growing like Crooked Media is.
 
@@ -65,13 +66,13 @@ Second are Lovett or Leave It & Pod Save The World, which stay within the top 50
 
 And Third, PSTP & WFLT have significant drop offs after it's initial release, which WFLT hovering between the top and bottom half of the chart for it's existence.
 
-#### PSTP & WFLT timeseries.
+### PSTP & WFLT timeseries.
 
 Now why are these patterns different depending on the show? I believe it stems from how the shows are being distributed, with PSA/LOLI/PSTW reaching podcast enthusiasts while WFLT & PSTP trying to convert audiences from other media platforms to podcasts, a much harder task overall.
 
 Allow me to explain
 
-## Have their podcast's reached different audiences?
+# Have their podcast's reached different audiences?
 
 Whenever your distributing different types of media, one should ask themselves 'What audiences am I reaching?' Is certain content reaching different audiences compared to others? Or am I always reaching the same groups of folks with everything I produce?
 
@@ -97,7 +98,7 @@ Now let's look at how the podcasts compare across these two metrics.
 
 Excluding Pod Save America (which is high in both metrics), a Crooked Media podcast either has a high Twitter following and low iTunes review total, or a low Twitter following and high iTunes review total. 
 
-## What does that mean exactly? 
+## So what does this mean exactly?
 
 It likely indicates the different audiences that support each of the podcast.
 
@@ -109,7 +110,7 @@ Well the hosts of PSTW and LOLI are also hosts of Pod Save America, which could 
 While not great news for PSTP & WFLT, it also shows there's even more room for improvement. Remember all of these podcasts have been in top 100 chart for most, or all of their life cycles. They just need a little help to spread their audience a bit more.
 
 
-## So, how could Crooked grow these audiences more?
+# How can Crooked Media use this analysis?
 
 
 ### Cross promote all shows across all twitter host accounts.
