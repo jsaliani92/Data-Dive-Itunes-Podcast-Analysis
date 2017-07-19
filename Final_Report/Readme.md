@@ -1,4 +1,4 @@
-# Crooked Media 2017 Podcast Report (In-progress)
+# The two types of Crooked Media Podcasts (and how they could be improved)!
 
 This report is an exercise in trying to use the data from itunescharts.net, the iTunes App Store, and Twitter. In order to focus the results, I decided to analyze the podcasts from one of my favorite media companies 'Crooked Media'. I had two main goals with this analysis. One: to see if there are any ways to manipulate the data into giving insights on how these shows are being consumed. And two: to see if those insights could be leveraged by Crooked Media themselves, so they can benefit from me performing this analysis.
 
@@ -58,7 +58,7 @@ First off, all of the shows have amazing initial releases. All of the podcasts s
 
 But after that, there appear to be three types of patterns. First is PSA, which stays within the top 25 during the whole year. 
 
-### PSA timeseries
+
 
 Second are Lovett or Leave It & Pod Save The World, which stay within the top 50 to top 25 for most of their time.
 
