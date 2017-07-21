@@ -103,18 +103,18 @@ While not great news for PSTP & WFLT, it also shows there's even more room for i
 
 ### Cross promote all shows across all twitter host accounts.  
 While obviously self promotional, making sure all of the hosts promote all of the shows under the Crooked Media empire provides a quick way to reach as many of those audience members as possible.
-*Update: they've started doing this more!
+#### Update: they've started doing this more!
 
 ### Allow other hosts to host Pod Save America (without Jon Favs, the main host) 
 Since it is the strongest show of the bunch, finding ways to get the hosts involved more than they are now can give some great exposure to PSTP & WFLT. Inviting Marie Cox and Deray to co-host instead of coming on for one segment could be very cool. That way listeners have more exposure to them earlier on in the episodes.
-*Update: they started doing this as well during Jon's wedding!
+#### Update: they started doing this as well during Jon's wedding!
 
 ### Feature certain podcasts across all Crooked podcast partners
 NPR, WNYC and Serial all feature other podcast episodes on their feeds so those audiences can get a taste of other podcasts under their group of podcasts. I would suggest featuring a specific podcast each week across all the podcast streams. That would give some great exposure to every podcast across the audiences.
-*They have still yet to do this, and I think this would help on a lot.
+#### They have still yet to do this, and I think this would help on a lot.
 
 ### Bring on hosts as guests on different Crooked podcasts
 Another way to expose the audiences would be bring on fellow hosts as guests on different podcasts. I personally think Veitor guesting on WFLT and bringing Deray on LOLI would be some great shows where you can expose those audiences to different shows.
-*Now they've made all hosts permenant guests on Pod Save America, a really smart move to get their largest audience distributed to all of the podcasts.
+#### Now they've made all hosts permenant guests on Pod Save America, a really smart move to get their largest audience distributed to all of the podcasts.
 
 
