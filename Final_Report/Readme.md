@@ -1,4 +1,4 @@
-# The two types of Crooked Media Podcasts (and how they could be improved!)
+# The Two Types of Crooked Media Podcasts
 
 This report is an exercise in trying to use the data from itunescharts.net, the iTunes App Store, and Twitter. In order to focus the results, I decided to analyze the podcasts from one of my favorite media companies 'Crooked Media'. I had two main goals with this analysis. One: to see if there are any ways to manipulate the data into giving insights on how these shows are being consumed. And two: to see if those insights could be leveraged by Crooked Media themselves, so they can benefit from me performing this analysis.
 
@@ -56,19 +56,19 @@ We can also line up the shows to see if any of them seem to follow similar patte
 
 First off, all of the shows have amazing initial releases. All of the podcasts stay within the top 5 for their first 10 days, which likely speaks to the distribution power Crooked Media has created. I like to call it "The Crooked Effect".
 
-But after that, there appear to be three types of patterns. First is PSA, which stays within the top 25 during the whole year. 
+But after that, there appear to be three types of patterns. First is Pod Save America, which stays within the top 25 during the whole year. 
 
-
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_1.png)
 
 Second are Lovett or Leave It & Pod Save The World, which stay within the top 50 to top 25 for most of their time.
 
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_LovettVSWorld.png)
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_2.png)
 
 And Third, PSTP & WFLT have significant drop offs after it's initial release, which WFLT hovering between the top and bottom half of the chart for it's existence.
 
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_PeopleVSFriends.png)
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_3.png)
 
-Now why are these patterns different depending on the show? I believe it stems from how the shows are being distributed, with PSA/LOLI/PSTW reaching podcast enthusiasts while WFLT & PSTP trying to convert audiences from other media platforms to podcasts, a much harder task overall.
+Now why are these patterns different depending on the show? It stems from how the shows are being distributed, with PSA/LOLI/PSTW reaching podcast enthusiasts while WFLT & PSTP trying to convert audiences from other media platforms to podcasts, a much harder task.
 
 Allow me to explain
 
