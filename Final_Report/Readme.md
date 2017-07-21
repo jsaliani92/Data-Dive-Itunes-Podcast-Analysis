@@ -22,14 +22,7 @@ The easiest way to measure success, for any podcast, is to check out if they've 
 
 For each of the Crooked Media podcasts, they've all spent over 90% of the time they've been out in the Top 100. Let me repeat that: each podcast has spent almost all of their existence in the Top 100.
 
-Take a look at the table below to see the percent of time they've spent in different parts of the chart.
-
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Tables/Total_Data_Table.png)
-
-And the fact that they all average a top 50 ranking is extremely impressive. Plus, all of the podcasts are what's called 'interview based' podcasts, where each show is a non-scripted conversation with minimal production needed. A show with as little production value as possible with extremely good performance is perfect for a company growing like Crooked Media is.
-
-Now acknowledging that these podcasts have all been fairly successful, there is a difference in how each show has succeeded. We can see that by looking at how the shows have performed over the course of 2017, which I've shown below.
-
+Take a look at the chart below, which identifies a show's release date and how they ranked after their release.  If there is a break in the line, that means that the podcast fell out of the top 100.  Four out of the five podcasts never fall out of the top 100.  Only one (With Friends Like These) falls out of the top 100, but it stays within the chart 87% of the time, a remarkable amount.
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total.png)
 
