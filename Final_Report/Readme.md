@@ -38,19 +38,21 @@ And fourth, Pod Save the People seems to have had a great initial launch but has
 
 We can also line up the shows to see if any of them seem to follow similar patterns.
 
-![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total2.png)
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_4.png)
 
 First off, all of the shows have amazing initial releases. All of the podcasts stay within the top 5 for their first 10 days, which likely speaks to the distribution power Crooked Media has created. I like to call it "The Crooked Effect".
 
-But after that, there appear to be three types of patterns. First is Pod Save America, which stays within the top 25 during the whole year. 
+But after that, the podcasts act differently.
+
+First off: Pod Save America, which stays within the top 25 during the whole year. 
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_1.png)
 
-Second are Lovett or Leave It & Pod Save The World, which stay within the top 50 to top 25 for most of their time.
+Second are Lovett or Leave It & Pod Save The World, which stay within the top 50 to top 25 for most of their existence.
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_2.png)
 
-And Third, PSTP & WFLT have significant drop offs after it's initial release, which WFLT hovering between the top and bottom half of the chart for it's existence.
+And Third, PSTP & WFLT have significant drop offs after it's initial release, with WFLT hovering between the top and bottom half of the chart for it's existence.
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_3.png)
 
