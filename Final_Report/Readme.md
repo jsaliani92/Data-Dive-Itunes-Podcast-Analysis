@@ -4,7 +4,7 @@ This report is an exercise in trying to use the data from itunescharts.net, the 
 
 This analysis gives a great overview of the success of Crooked Media this year and some insights they could use in future content creation. 
 
-# Crooked Media: What is it?
+# What's Crooked Media?
 
 So before we get to the data, lets talk about our subject, Crooked Media.
 
@@ -93,7 +93,7 @@ It likely indicates the different audiences that support each of the podcast.
 
 'Pod Save the World' and 'Lovett or Leave It' have garnered significantly more iTunes reviews than 'Pod Save the People' or 'With Friends like These'. But they both have much smaller reaches on Twitter compared to the other two podcast hosts. So where are they getting all those reviewers from?
 
-Well the hosts of PSTW and LOLI are also hosts of Pod Save America, which could be driving many more already ardent supporters of PSA to those two podcasts before PSTP & PSTW. In other words, if you listen to PSA, your probably more likely to listen to PSTW and LOLI than WFLT or PSTP. We can't exactly prove that with public data, but it's a likely indication.
+Well the hosts of PSTW and LOLI are also hosts of Pod Save America, which could be driving many more already ardent supporters of PSA to those two podcasts before PSTP & WFLT. In other words, if you listen to PSA, your probably more likely to listen to PSTW and LOLI than WFLT or PSTP. We can't exactly prove that with public data, but it's a likely indication.
 
 While not great news for PSTP & WFLT, it also shows there's even more room for improvement. Remember all of these podcasts have been in top 100 chart for most, or all of their life cycles. They just need a little help to spread their audience a bit more.
 
