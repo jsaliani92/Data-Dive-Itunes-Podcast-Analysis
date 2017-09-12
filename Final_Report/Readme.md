@@ -1,10 +1,10 @@
-# The Two Types of Crooked Media Podcasts
+# Crooked Media Case-study: Does Having a Podcast Presence Affect A Podcast's Growth?
 
 This report is an exercise in trying to use the data from itunescharts.net, the iTunes App Store, and Twitter. In order to focus the results, I decided to analyze the podcasts from one of my favorite media companies 'Crooked Media'. I had two main goals with this analysis. One: to see if there are any ways to manipulate the data into giving insights on how these shows are being consumed. And two: to see if those insights could be leveraged by Crooked Media themselves, so they can benefit from me performing this analysis.
 
 This analysis gives a great overview of the success of Crooked Media this year and some insights they could use in future content creation. 
 
-# What's Crooked Media?
+## What's Crooked Media?
 
 So before we get to the data, lets talk about our subject, Crooked Media.
 
@@ -16,7 +16,7 @@ If you want check out specifics, here's a link to my report doc in the other par
 
 https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/tree/master/Reports/Crooked%20Media%20Report/Podcast%20Reviews
 
-# How successful have these podcasts been?
+## How successful have these podcasts been?
 
 The easiest way to measure success, for any podcast, is to check out if they've cracked into the top 100 chart on itunes. Everyday, apple releases the Top 100 podcasts. This list fluctuates pretty often, so staying in the chart for more than a week is a huge accomplishment. 
 
@@ -60,7 +60,7 @@ Now why are these patterns different depending on the show? It stems from how th
 
 Allow me to explain
 
-# Have their podcast's reached different audiences?
+## Have their podcast's reached different audiences?
 
 Whenever your distributing different types of media, one should ask themselves 'What audiences am I reaching?' Is certain content reaching different audiences compared to others? Or am I always reaching the same groups of folks with everything I produce?
 
@@ -98,7 +98,7 @@ Well the hosts of PSTW and LOLI are also hosts of Pod Save America, which could 
 While not great news for PSTP & WFLT, it also shows there's even more room for improvement. Remember all of these podcasts have been in top 100 chart for most, or all of their life cycles. They just need a little help to spread their audience a bit more.
 
 
-# How can Crooked Media use this analysis?
+## How can Crooked Media use this analysis?
 
 
 ### Cross promote all shows across all twitter host accounts.  
