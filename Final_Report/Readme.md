@@ -27,45 +27,41 @@ Take a look at the chart below, which identifies a show's release date and how t
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total.png)
 
-### Take-aways
+### General Take-aways
 
-First, Pod Save America is the only podcast to stay in the upper quarter part of the rankings throughout it's entire run. All of the other podcasts dip into the lower parts of the rankings at one point or another. This isn't too shocking as Crooked pours the most amount of time, resources and hosts into this podcast, as well as it being what launched the company back before the inauguration. 
+- Only one podcast ('With Friends Like These') has ever dipped out of the top 100 rankings, but it does bounces back after.  That shows that all of these podcasts have significant staying power and bode well for their future.
 
-Second, as of right now, only 'With Friends Like These' has ever dipped out of the top 100 rankings, but it does bounce back after doing so. I would expect this to be the case because that podcasts subject matter is very personal and intense, which likely attracts a smaller audience. 
+- Pod Save America is the only podcast to stay in the upper quarter part of the rankings throughout it's entire run. All of the other podcasts dip into the lower parts of the rankings at one point or another. This isn't too shocking as Crooked pours the most amount of time, resources and hosts into this podcast, as well as it being what launched the company back before the inauguration. 
 
-Third, 'Pod Save the World' and 'Lovett or Leave It' seem to be battling it out as of recently! I'm sure that is ruffling both Tommy's and Jon's feathers, as the two hosts usually banter with each other all the time. 
-
-And fourth, Pod Save the People seems to have had a great initial launch but has fallen significantly in the past week. This could be due to the show failing to release an episode this week.
-
-We can also line up the shows to see if any of them seem to follow similar patterns.
+We can also line up the shows together to see if they follow similar patterns.
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_4.png)
 
-First off, all of the shows have amazing initial releases. All of the podcasts stay within the top 5 for their first 10 days, which likely speaks to the distribution power Crooked Media has created. I like to call it "The Crooked Effect".
+- All of the shows have amazing initial releases. They all stay within the top 5 for their first 10 days, which likely speaks to the distribution power Crooked Media has created. I like to call it "The Crooked Effect".
 
-But after that, the podcasts act differently.
-
-First off: Pod Save America, which stays within the top 25 during the whole year. 
+- As stated before, Pod Save America, which stays within the top 25 during the whole year. 
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_1.png)
 
-Second are Lovett or Leave It & Pod Save The World, which stay within the top 50 to top 25 for most of their existence.
+- Lovett or Leave It & Pod Save The World act very similarly, dropping off a bit after the release, but staying within the top 50 to top 25 for most of their existence.
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_2.png)
 
-And Third, PSTP & WFLT have significant drop offs after it's initial release, with WFLT hovering between the top and bottom half of the chart for it's existence.
+- With Friends Like These & Pod Save The People have more significant drop offs and fall out of the top 50 quicker than any of the other podcasts, meaning they don't sustain consistent audience growth compared to the others.
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_3.png)
 
-Now why are these patterns different depending on the show? It stems from how the shows are being distributed, with PSA/LOLI/PSTW reaching podcast enthusiasts while WFLT & PSTP trying to convert audiences from other media platforms to podcasts, a much harder task.
+## Now what's causing these different patters? 
+
+I believe it comes from how the shows are built.  The biggest audience of a podcast comes from it's host and company presence.  The more successful Crooked Media podcasts are hosted by established podcast personalities, where as the lower performing podcasts are ones where the host is trying to convert a large social media audience into a podcast audience: a much tougher task.
 
 Allow me to explain
 
 ## Have their podcast's reached different audiences?
 
-Whenever your distributing different types of media, one should ask themselves 'What audiences am I reaching?' Is certain content reaching different audiences compared to others? Or am I always reaching the same groups of folks with everything I produce?
+Whenever your distributing different types of media, one should ask themselves 'Who am I reaching exactly?' Is certain content reaching different audiences compared to others? Or am I always reaching the same groups of folks with everything I produce?
 
-Based on the iTunes rankings, that isn't the case across the different podcasts. Clearly there are smaller sections of Crooked's audience listening to WFLT & PSTP compared to the others. But why?
+Looking at  the iTunes rankings, the different Crooked podcasts aren't reaching the same group of people.  If they were, there would be similar growth rates across all of the shows.  But why?
 
 There are a many ways to go about answering this question, and it would certainly be easier if we had access to Crooked's iTunes listener data. But there are still ways to find an answer by using publically available data. Specifically we'll look at two variables: the number of people who have reviewed each podcast on iTunes, and the number of Twitter followers of each of the podcast host.
 
@@ -91,7 +87,6 @@ Excluding Pod Save America (which is high in both metrics), a Crooked Media podc
 
 It likely indicates the different audiences that support each of the podcast.
 
-
 'Pod Save the World' and 'Lovett or Leave It' have garnered significantly more iTunes reviews than 'Pod Save the People' or 'With Friends like These'. But they both have much smaller reaches on Twitter compared to the other two podcast hosts. So where are they getting all those reviewers from?
 
 Well the hosts of PSTW and LOLI are also hosts of Pod Save America, which could be driving many more already ardent supporters of PSA to those two podcasts before PSTP & WFLT. In other words, if you listen to PSA, your probably more likely to listen to PSTW and LOLI than WFLT or PSTP. We can't exactly prove that with public data, but it's a likely indication.
@@ -99,7 +94,7 @@ Well the hosts of PSTW and LOLI are also hosts of Pod Save America, which could 
 While not great news for PSTP & WFLT, it also shows there's even more room for improvement. Remember all of these podcasts have been in top 100 chart for most, or all of their life cycles. They just need a little help to spread their audience a bit more.
 
 
-## How can Crooked Media use this analysis?
+## How can Crooked Media tackle this problem?
 
 
 ### Cross promote all shows across all twitter host accounts.  
