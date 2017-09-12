@@ -39,7 +39,7 @@ We can also line up the shows together to see if they follow similar patterns.
 
 - All of the shows have amazing initial releases. They all stay within the top 5 for their first 10 days, which likely speaks to the distribution power Crooked Media has created. I like to call it "The Crooked Effect".
 
-- As stated before, Pod Save America, which stays within the top 25 during the whole year. 
+- As stated before, Pod Save America stays within the top 25 during the whole year. 
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_1.png)
 
@@ -51,11 +51,13 @@ We can also line up the shows together to see if they follow similar patterns.
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_3.png)
 
-## Now what's causing these different patters? 
+## Now what's causing these different patterns? 
 
-I believe it comes from how the shows are built.  The biggest audience of a podcast comes from it's host and company presence.  The more successful Crooked Media podcasts are hosted by established podcast personalities, where as the lower performing podcasts are ones where the host is trying to convert a large social media audience into a podcast audience: a much tougher task.
+I believe it comes from how the shows are built.  
 
-Allow me to explain
+The audience of a podcast comes from it's host and company media presence.  
+
+The more successful Crooked Media podcasts are hosted by established podcast personalities, where as the lower performing podcasts are ones where the host is trying to convert a large social media audience into a podcast audience: a much tougher task.
 
 ## Have their podcast's reached different audiences?
 
