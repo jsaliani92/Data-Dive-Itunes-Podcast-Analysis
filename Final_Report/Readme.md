@@ -5,7 +5,7 @@ This report is an exercise in trying to use the data from itunescharts.net, the 
 
 This analysis gives a great overview of the success of Crooked Media this year and some insights they could use in future content creation. 
 
-## What's Crooked Media?
+## Background: What's Crooked Media?
 
 So before we get to the data, lets talk about our subject, Crooked Media.
 
@@ -27,7 +27,7 @@ Take a look at the chart below, which identifies a show's release date and how t
 
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total.png)
 
-We can see a couple things here. 
+### Take-aways
 
 First, Pod Save America is the only podcast to stay in the upper quarter part of the rankings throughout it's entire run. All of the other podcasts dip into the lower parts of the rankings at one point or another. This isn't too shocking as Crooked pours the most amount of time, resources and hosts into this podcast, as well as it being what launched the company back before the inauguration. 
 
