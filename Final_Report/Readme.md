@@ -109,10 +109,10 @@ Since it is the strongest show of the bunch, finding ways to get the hosts invol
 
 ### Feature certain podcasts across all Crooked podcast partners
 NPR, WNYC and Serial all feature other podcast episodes on their feeds so those audiences can get a taste of other podcasts under their group of podcasts. I would suggest featuring a specific podcast each week across all the podcast streams. That would give some great exposure to every podcast across the audiences.
-#### They have still yet to do this, and I think this would help on a lot.
+#### Update: They have still yet to do this, and I think this would help on a lot.
 
 ### Bring on hosts as guests on different Crooked podcasts
 Another way to expose the audiences would be bring on fellow hosts as guests on different podcasts. I personally think Veitor guesting on WFLT and bringing Deray on LOLI would be some great shows where you can expose those audiences to different shows.
-#### Now they've made all hosts permenant guests on Pod Save America, a really smart move to get their largest audience distributed to all of the podcasts.
+#### Update: They've now made all hosts permenant guests on Pod Save America, a really smart move to get their largest audience distributed to all of the podcasts.
 
 
