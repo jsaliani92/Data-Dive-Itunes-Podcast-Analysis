@@ -1,4 +1,4 @@
-# Crooked Media Case-study: Does Having a Podcast Presence Affect A Podcast's Growth?
+# Crooked Media Case-study: Does the Host Having an Established Podcast Presence Help A Podcast's Growth?
 
 This report is an exercise in trying to use the data from itunescharts.net, the iTunes App Store, and Twitter. In order to focus the results, I decided to analyze the podcasts from one of my favorite media companies 'Crooked Media'. I had two main goals with this analysis. One: to see if there are any ways to manipulate the data into giving insights on how these shows are being consumed. And two: to see if those insights could be leveraged by Crooked Media themselves, so they can benefit from me performing this analysis.
 
