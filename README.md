@@ -1,7 +1,7 @@
 # Itunes-Podcast-Chart-Analysis
 ## This Repo is in-progress!
 
-This repo is meant to bring iTunes ranking data along with publically available social media and podcast data to analyze certain groups of podcasts against one another.  The first dive is on the five podcasts from crooked media.  Look in the Reports folder to see the most current form of the report!
+This repo is meant to bring iTunes ranking data along with publically available social media and podcast data to analyze certain groups of podcasts against one another.  
 
 Below are some of the images I've created using code from this repo.
 

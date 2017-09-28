@@ -1,0 +1,118 @@
+# Crooked Media Case-study
+## Does the Host Having an Established Podcast Presence Help A Podcast's Growth?
+
+This report is an exercise in trying to use the data from itunescharts.net, the iTunes App Store, and Twitter. In order to focus the results, I decided to analyze the podcasts from one of my favorite media companies 'Crooked Media'. I had two main goals with this analysis. One: to see if there are any ways to manipulate the data into giving insights on how these shows are being consumed. And two: to see if those insights could be leveraged by Crooked Media themselves, so they can benefit from me performing this analysis.
+
+This analysis gives a great overview of the success of Crooked Media this year and some insights they could use in future content creation. 
+
+## Background: What's Crooked Media?
+
+So before we get to the data, lets talk about our subject, Crooked Media.
+
+Crooked Media is a progressive, podcast-driven media company started in early 2017. From the guys behind "Keepin it 1600" podcast, the founders (Jon Faverau, Jon Lovett, Tommy Veitor and Dan Phieffer) are all former Obama staffers who have created a successful voice to amplify the progressive base. I am a huge plan of all the podcasts they've released so far and am extremely excited for how the company grows in the coming years. 
+
+The five Crooked Media podcasts are Pod Save America, Pod Save The World, With Friends Like These, Lovett Or Leave It, Pod Save The People.
+
+If you want check out specifics, here's a link to my report doc in the other part of Github!
+
+https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/tree/master/Reports/Crooked%20Media%20Report/Podcast%20Reviews
+
+## How successful have these podcasts been?
+
+The easiest way to measure success, for any podcast, is to check out if they've cracked into the top 100 chart on itunes. Everyday, apple releases the Top 100 podcasts. This list fluctuates pretty often, so staying in the chart for more than a week is a huge accomplishment. 
+
+For each of the Crooked Media podcasts, they've all spent over 90% of the time they've been out in the Top 100. Let me repeat that: each podcast has spent almost all of their existence in the Top 100.
+
+Take a look at the chart below, which identifies a show's release date and how they ranked after their release.  If there is a break in the line, that means that the podcast fell out of the top 100.  Four out of the five podcasts never fall out of the top 100.  Only one (With Friends Like These) falls out of the top 100, but it stays within the chart 87% of the time, a remarkable amount.
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total.png)
+
+### General Take-aways
+
+- Only one podcast ('With Friends Like These') has ever dipped out of the top 100 rankings, but it does bounces back after.  That shows that all of these podcasts have significant staying power and bode well for their future.
+
+- Pod Save America is the only podcast to stay in the upper quarter part of the rankings throughout it's entire run. All of the other podcasts dip into the lower parts of the rankings at one point or another. This isn't too shocking as Crooked pours the most amount of time, resources and hosts into this podcast, as well as it being what launched the company back before the inauguration. 
+
+We can also line up the shows together to see if they follow similar patterns.
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_4.png)
+
+- All of the shows have amazing initial releases. They all stay within the top 5 for their first 10 days, which likely speaks to the distribution power Crooked Media has created. I like to call it "The Crooked Effect".
+
+- As stated before, Pod Save America stays within the top 25 during the whole year. 
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_1.png)
+
+- Lovett or Leave It & Pod Save The World act very similarly, dropping off a bit after the release, but staying within the top 50 to top 25 for most of their existence.
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_2.png)
+
+- With Friends Like These & Pod Save The People have more significant drop offs and fall out of the top 50 quicker than any of the other podcasts, meaning they don't sustain consistent audience growth compared to the others.
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total_3.png)
+
+## Now what's causing these different patterns? 
+
+I believe it comes from how the shows are built.  
+
+The audience of a podcast comes from it's host and company media presence.  
+
+The more successful Crooked Media podcasts are hosted by established podcast personalities, where as the lower performing podcasts are ones where the host is trying to convert a large social media audience into a podcast audience: a much tougher task.
+
+## Have their podcast's reached different audiences?
+
+Whenever your distributing different types of media, one should ask themselves 'Who am I reaching exactly?' Is certain content reaching different audiences compared to others? Or am I always reaching the same groups of folks with everything I produce?
+
+Looking at  the iTunes rankings, the different Crooked podcasts aren't reaching the same group of people.  If they were, there would be similar growth rates across all of the shows.  But why?
+
+There are a many ways to go about answering this question, and it would certainly be easier if we had access to Crooked's iTunes listener data. But there are still ways to find an answer by using publically available data. Specifically we'll look at two variables: the number of people who have reviewed each podcast on iTunes, and the number of Twitter followers of each of the podcast host.
+
+Let's breakdown the value behind each variable.
+
+### Podcast iTunes Review Totals
+After the end of any podcast you listen to, the host will recommend their listeners to go into the iTunes app store and write a review for their show. Ranking a podcast is one of the best ways to boost a podcast up in the iTunes ranking charts (that's what the hosts say at least). By just listening to more podcasts and hearing that message over and over again, passionate podcast listeners are more likely to review podcasts than new time listeners.
+
+Bottom line - if you have a lot of iTunes ratings, you likely have exposed your podcast to a large group of passionate podcast listeners.
+
+### Podcast Host Twitter Followings
+For many podcasts, social media is the best way to advertise your podcast quickly and effectively to your audience. Host's who start podcasts with a large twitter following can often transfer many of their followers into immediate podcast listeners. Look at Stephen Colbert last year and Larry Wilmore this year. It's simple cross platform migration. And the bigger the audience, the more potential for cross over support.
+
+Bottom line - A large presence on Twitter could lead to a large number of supporters for a podcast.
+
+Now let's look at how the podcasts compare across these two metrics.
+
+![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Scatterplots/Audience_Reach_Scatter.png)
+
+Excluding Pod Save America (which is high in both metrics), a Crooked Media podcast either has a high Twitter following and low iTunes review total, or a low Twitter following and high iTunes review total. 
+
+## So what does this mean exactly?
+
+It likely indicates the different audiences that support each of the podcast.
+
+'Pod Save the World' and 'Lovett or Leave It' have garnered significantly more iTunes reviews than 'Pod Save the People' or 'With Friends like These'. But they both have much smaller reaches on Twitter compared to the other two podcast hosts. So where are they getting all those reviewers from?
+
+Well the hosts of PSTW and LOLI are also hosts of Pod Save America, which could be driving many more already ardent supporters of PSA to those two podcasts before PSTP & WFLT. In other words, if you listen to PSA, your probably more likely to listen to PSTW and LOLI than WFLT or PSTP. We can't exactly prove that with public data, but it's a likely indication.
+
+While not great news for PSTP & WFLT, it also shows there's even more room for improvement. Remember all of these podcasts have been in top 100 chart for most, or all of their life cycles. They just need a little help to spread their audience a bit more.
+
+
+## How can Crooked Media tackle this problem?
+
+
+### Cross promote all shows across all twitter host accounts.  
+While obviously self promotional, making sure all of the hosts promote all of the shows under the Crooked Media empire provides a quick way to reach as many of those audience members as possible.
+#### Update: they've started doing this more!
+
+### Allow other hosts to host Pod Save America (without Jon Favs, the main host) 
+Since it is the strongest show of the bunch, finding ways to get the hosts involved more than they are now can give some great exposure to PSTP & WFLT. Inviting Marie Cox and Deray to co-host instead of coming on for one segment could be very cool. That way listeners have more exposure to them earlier on in the episodes.
+#### Update: they started doing this as well during Jon's wedding!
+
+### Feature certain podcasts across all Crooked podcast partners
+NPR, WNYC and Serial all feature other podcast episodes on their feeds so those audiences can get a taste of other podcasts under their group of podcasts. I would suggest featuring a specific podcast each week across all the podcast streams. That would give some great exposure to every podcast across the audiences.
+#### Update: They have still yet to do this, and I think this would help on a lot.
+
+### Bring on hosts as guests on different Crooked podcasts
+Another way to expose the audiences would be bring on fellow hosts as guests on different podcasts. I personally think Veitor guesting on WFLT and bringing Deray on LOLI would be some great shows where you can expose those audiences to different shows.
+#### Update: They've now made all hosts permenant guests on Pod Save America, a really smart move to get their largest audience distributed to all of the podcasts.
+
+
