@@ -8,7 +8,7 @@ Below are some of the images I've created using code from this repo.
 # Individual podcast timelines
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Time_Line_Pod%20Save%20America.png)
 
-# Multiplte podcast timelines
+# Multiple podcast timelines
 ![alt text](https://github.com/jsaliani92/Itunes-Podcast-Chart-Analysis/blob/master/Images/Crooked_Media/Output/Timelines/Long_Timeline_Total.png)
 
 # Scatterplots to analyze reach across Twitter and Itunes
